@@ -1,0 +1,10 @@
+2022-02-18 16:21:17,368 - INFO - create_logger - Results are saved in C:\Users\ainanix\OneDrive - Intel Corporation\GIT_Repos\code20220218-abhishekinani\logs
+2022-02-18 16:21:17,369 - INFO - main -  ++++++++++ Entry point of test ++++++++++
+2022-02-18 16:21:17,369 - INFO - parse_json - Parsing JSON file
+2022-02-18 16:21:17,370 - INFO - calculate_overweight_count - No. of Overweight Person: 1
+2022-02-18 16:21:17,370 - INFO - print_results - {'Gender': 'Male', 'HeightCm': 171, 'WeightKg': 96, 'BMIIndex': 32.8, 'BMICategory': 'Moderately obese', 'HealthRisk': 'Medium risk'}
+2022-02-18 16:21:17,383 - INFO - print_results - {'Gender': 'Male', 'HeightCm': 161, 'WeightKg': 85, 'BMIIndex': 32.8, 'BMICategory': 'Moderately obese', 'HealthRisk': 'Medium risk'}
+2022-02-18 16:21:17,384 - INFO - print_results - {'Gender': 'Male', 'HeightCm': 180, 'WeightKg': 77, 'BMIIndex': 23.8, 'BMICategory': 'Normal weight', 'HealthRisk': 'Low risk'}
+2022-02-18 16:21:17,384 - INFO - print_results - {'Gender': 'Female', 'HeightCm': 166, 'WeightKg': 62, 'BMIIndex': 22.5, 'BMICategory': 'Normal weight', 'HealthRisk': 'Low risk'}
+2022-02-18 16:21:17,384 - INFO - print_results - {'Gender': 'Female', 'HeightCm': 150, 'WeightKg': 70, 'BMIIndex': 31.1, 'BMICategory': 'Moderately obese', 'HealthRisk': 'Medium risk'}
+2022-02-18 16:21:17,384 - INFO - print_results - {'Gender': 'Female', 'HeightCm': 167, 'WeightKg': 82, 'BMIIndex': 29.4, 'BMICategory': 'Overweight', 'HealthRisk': 'Enhanced risk'}
